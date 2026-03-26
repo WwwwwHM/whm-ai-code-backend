@@ -9,7 +9,7 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.whm</groupId>
-    <artifactId>whm-ai-code-backend</artifactId>
+    <artifactId>whm-ai-code-mother-backend</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>whm-ai-code-backend</name>
     <description>whm-ai-code-backend</description>
