@@ -1,7 +1,7 @@
 package com.whm.whmaicodebackend.exception;
 
-import com.whm.yungallerybackend.exception.BusinessException;
-import com.whm.yungallerybackend.exception.ErrorCode;
+import com.whm.whmaicodebackend.exception.BusinessException;
+import com.whm.whmaicodebackend.exception.ErrorCode;
 
 public class ThrowUtils {
 
