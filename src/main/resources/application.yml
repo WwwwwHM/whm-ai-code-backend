@@ -1,6 +1,14 @@
 spring:
   application:
     name: whm-ai-code-mother-backend
+
+  # mysql
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://localhost:3306/whm_ai_code_mother
+    username: root
+    password: WHM19990504
+
 server:
   port: 8123
   servlet:
@@ -16,3 +24,4 @@ knife4j:
   enable: true
   setting:
     language: zh_cn
+
